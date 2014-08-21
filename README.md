@@ -8,6 +8,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
     - [Web Framework](#web-framework)
     - [Command Line](#command-line)
     - [Email](#email)
+    - [Platform/Service](#platform/service)
     - [Miscellaneous](#miscellaneous) 
     - [Book](#book)
 
@@ -38,6 +39,14 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 ## Email
 * [inbox](https://github.com/inboxapp/inbox) - The next-generation email platform
+
+## Platform/Service
+
+* [edx-platform](https://github.com/edx/edx-platform) - Open edX, the edX platform that powers 
+
+* [sentry](https://github.com/getsentry/sentry) - Sentry is a realtime, platform-agnostic error logging and aggregation platform
+
+* [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask
 
 ## Miscellaneous
 
