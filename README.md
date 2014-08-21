@@ -7,8 +7,9 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
     - [Database](#database)
     - [Web Framework](#web-framework)
     - [Command Line](#command-line)
+    - [Tool](#tool)
     - [Email](#email)
-    - [Platform/Service](#platform/service)
+    - [Platform/Service](#platformservice)
     - [Miscellaneous](#miscellaneous) 
     - [Book](#book)
 
@@ -35,16 +36,28 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [httpie](https://github.com/jakubroztocil/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 
+* [pep8](https://github.com/jcrocholl/pep8) - Simple Python style checker in one Python file
+
 * [EulerPy](https://github.com/iKevinY/EulerPy) - Python-based Project Euler command line tool.
+
+## Tool
+
+* [huxley](https://github.com/facebook/huxley) - Huxley is a test-like system for catching visual regressions in Web applications. It watches you browse, takes screenshots, and tells you when they change.
+
+* [plan](https://github.com/fengsp/plan) - Cron jobs in Python 
 
 ## Email
 * [inbox](https://github.com/inboxapp/inbox) - The next-generation email platform
+
+* [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box
 
 ## Platform/Service
 
 * [edx-platform](https://github.com/edx/edx-platform) - Open edX, the edX platform that powers 
 
 * [sentry](https://github.com/getsentry/sentry) - Sentry is a realtime, platform-agnostic error logging and aggregation platform
+
+* [wagtail](https://github.com/torchbox/wagtail) - A Django content management system focused on flexibility and user experience
 
 * [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask
 
