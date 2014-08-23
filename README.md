@@ -46,6 +46,9 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [plan](https://github.com/fengsp/plan) - Cron jobs in Python 
 
+* [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF 
+
+
 ## Email
 * [inbox](https://github.com/inboxapp/inbox) - The next-generation email platform
 
