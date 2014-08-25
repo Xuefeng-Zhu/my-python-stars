@@ -6,6 +6,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 - [My Python Star](#my-python-star)
     - [Database](#database)
     - [Web Framework](#web-framework)
+    - [Document](#document)
     - [Command Line](#command-line)
     - [Tool](#tool)
     - [Email](#email)
@@ -28,6 +29,10 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python
 
 * [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level screen scraping and web crawling framework for Python
+ 
+## Document
+
+* [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF 
 
 ## Command Line
 * [pythonpy](https://github.com/Russell91/pythonpy) - python -c, with tab completion and shorthand
