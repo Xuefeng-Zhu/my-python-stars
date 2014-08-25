@@ -21,6 +21,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API
 
+* [stellar](https://github.com/fastmonkeys/stellar) - Fast database snapshot and restore tool for development
+
 ## Web Framework
 
 * [restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python
