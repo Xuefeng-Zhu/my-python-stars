@@ -19,6 +19,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 ## Database
 
 * [butterdb](https://github.com/Widdershin/butterdb) - butterdb is a Python ORM for Google Drive Spreadsheets. Still in development, but usable.
+* [smartcsv](https://github.com/santiagobasulto/smartcsv) - CSVs are awesome, yet they're pretty dumb. Let's get them smarter!
 
 * [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API
 
@@ -54,6 +55,9 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [plan](https://github.com/fengsp/plan) - Cron jobs in Python 
 
 * [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF 
+
+* [unp](https://github.com/mitsuhiko/unp) - Unpacks things 
+
 
 
 ## Email
