@@ -80,6 +80,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [powerline](https://github.com/Lokaltog/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile
 
 * [sublime-bower](https://github.com/benschwarz/sublime-bower) - Install Bower packages from within Sublime
+* [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 
 ## Book
 
