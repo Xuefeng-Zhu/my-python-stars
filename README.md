@@ -76,7 +76,9 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 ## Platform/Service
 
-* [edx-platform](https://github.com/edx/edx-platform) - Open edX, the edX platform that powers 
+* [edx-platform](https://github.com/edx/edx-platform) - Open edX, the edX platform that powers * 
+
+* [reddit](https://github.com/reddit/reddit) - the code that powers reddit.com 
 
 * [sentry](https://github.com/getsentry/sentry) - Sentry is a realtime, platform-agnostic error logging and aggregation platform
 
@@ -93,8 +95,6 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 
 * [Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
-
-* [reddit](https://github.com/reddit/reddit) - the code that powers reddit.com 
 
 
 ## Book
