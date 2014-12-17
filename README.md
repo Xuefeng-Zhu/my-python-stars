@@ -105,7 +105,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level screen scraping and web crawling framework for Python
 
-* [https://github.com/hickford/MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites
+* [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites
 
 ## Miscellaneous
 
