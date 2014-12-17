@@ -59,11 +59,15 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [sh](https://github.com/amoffat/sh) - Python process launching
 
+* [envoy](https://github.com/kennethreitz/envoy) - Python Subprocesses for Humans 
+
 ## Tool
 
 * [huxley](https://github.com/facebook/huxley) - Huxley is a test-like system for catching visual regressions in Web applications. It watches you browse, takes screenshots, and tells you when they change.
 
 * [plan](https://github.com/fengsp/plan) - Cron jobs in Python 
+
+* [rq](https://github.com/nvie/rq) - Simple job queues for Python  
 
 * [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF 
 
@@ -104,7 +108,10 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 
+* [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion library for python
+
 * [Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
+
 
 
 ## Book
