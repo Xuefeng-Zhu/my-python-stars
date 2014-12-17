@@ -30,6 +30,9 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python
 
 * [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level screen scraping and web crawling framework for Python
+
+* [eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions
+
  
 ## Document
 
@@ -58,6 +61,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [unp](https://github.com/mitsuhiko/unp) - Unpacks things 
 
+* [fig](https://github.com/docker/fig) - Fast, isolated development environments using Docker  
 
 
 ## Email
@@ -80,8 +84,13 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [powerline](https://github.com/Lokaltog/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile
 
 * [sublime-bower](https://github.com/benschwarz/sublime-bower) - Install Bower packages from within Sublime
+
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
+
 * [Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
+
+* [reddit](https://github.com/reddit/reddit) - the code that powers reddit.com 
+
 
 ## Book
 
