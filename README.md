@@ -74,6 +74,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF 
 
+* [pdfminer](https://github.com/euske/pdfminer) - Python PDF Parser
+
 * [unp](https://github.com/mitsuhiko/unp) - Unpacks things 
 
 * [fig](https://github.com/docker/fig) - Fast, isolated development environments using Docker  
