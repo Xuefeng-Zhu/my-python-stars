@@ -86,6 +86,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box
 
+* [inbox.py](https://github.com/kennethreitz/inbox.py) - Python SMTP Server for Humans 
+
 ## Platform/Service
 
 * [edx-platform](https://github.com/edx/edx-platform) - Open edX, the edX platform that powers * 
@@ -102,6 +104,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [tweep](https://github.com/tweepy/tweepy) - Twitter for Python 
 
 * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in python. Built with multithreading, 10+ languages, NLP, ML, and more
+
+* [Stream-Framework](https://github.com/tschellenbach/Stream-Framework) - Stream Framework is a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis. 
 
 * [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level screen scraping and web crawling framework for Python
 
