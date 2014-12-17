@@ -105,6 +105,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level screen scraping and web crawling framework for Python
 
+* [https://github.com/hickford/MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites
+
 ## Miscellaneous
 
 * [powerline](https://github.com/Lokaltog/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile
