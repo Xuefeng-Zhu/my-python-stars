@@ -8,9 +8,11 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
     - [Web Framework](#web-framework)
     - [Document](#document)
     - [Command Line](#command-line)
+    - [System](#system)
     - [Tool](#tool)
     - [Email](#email)
     - [Platform/Service](#platformservice)
+    - [Information](#information)
     - [Miscellaneous](#miscellaneous) 
     - [Book](#book)
 
@@ -53,6 +55,10 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [EulerPy](https://github.com/iKevinY/EulerPy) - Python-based Project Euler command line tool.
 
+## System
+
+* [sh](https://github.com/amoffat/sh) - Python process launching
+
 ## Tool
 
 * [huxley](https://github.com/facebook/huxley) - Huxley is a test-like system for catching visual regressions in Web applications. It watches you browse, takes screenshots, and tells you when they change.
@@ -66,7 +72,6 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [fig](https://github.com/docker/fig) - Fast, isolated development environments using Docker  
 
 * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems  
-
 
 
 ## Email
@@ -85,6 +90,11 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [wagtail](https://github.com/torchbox/wagtail) - A Django content management system focused on flexibility and user experience
 
 * [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask
+
+## Information
+* [tweep](https://github.com/tweepy/tweepy) - Twitter for Python 
+
+* [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in python. Built with multithreading, 10+ languages, NLP, ML, and more
 
 ## Miscellaneous
 
