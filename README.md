@@ -81,6 +81,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [sublime-bower](https://github.com/benschwarz/sublime-bower) - Install Bower packages from within Sublime
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
+* [Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
 
 ## Book
 
