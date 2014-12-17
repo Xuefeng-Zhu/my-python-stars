@@ -29,6 +29,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you
 
+* [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores in Python with support for implicit table creation, bulk loading, and transaction. Dataset also includes support for freezing data to CSV and JSON flat files.
+
 ## Web Framework
 
 * [restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python
