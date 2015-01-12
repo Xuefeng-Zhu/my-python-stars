@@ -134,3 +134,5 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 
 * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+
+* [py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python 
