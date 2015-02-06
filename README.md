@@ -125,6 +125,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
 
+* [itsdangerous](https://github.com/mitsuhiko/itsdangerous) - Various helpers to pass trusted data to untrusted environments 
+
 
 
 ## Book
