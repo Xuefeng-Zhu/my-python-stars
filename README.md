@@ -66,6 +66,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [envoy](https://github.com/kennethreitz/envoy) - Python Subprocesses for Humans 
 
+* [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+
 ## Tool
 
 * [huxley](https://github.com/facebook/huxley) - Huxley is a test-like system for catching visual regressions in Web applications. It watches you browse, takes screenshots, and tells you when they change.
@@ -117,6 +119,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites
 
+* [PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles 
+
 ## Miscellaneous
 
 * [powerline](https://github.com/Lokaltog/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile
@@ -142,3 +146,5 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 
 * [py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python 
+
+＊ [Algorithms](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python
