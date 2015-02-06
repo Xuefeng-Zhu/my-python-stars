@@ -29,6 +29,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you
 
+* [fake2db](https://github.com/emirozer/fake2db) - create test databases that are populated with fake data
+
 * [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores in Python with support for implicit table creation, bulk loading, and transaction. Dataset also includes support for freezing data to CSV and JSON flat files.
 
 ## Web Framework
@@ -101,6 +103,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [wagtail](https://github.com/torchbox/wagtail) - A Django content management system focused on flexibility and user experience
 
 * [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask
+
+* [tinys3](https://github.com/stars?language=python) - A simple python S3 upload library. Inspired by requests
 
 ## Information
 * [tweep](https://github.com/tweepy/tweepy) - Twitter for Python 
