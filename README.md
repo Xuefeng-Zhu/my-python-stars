@@ -147,4 +147,4 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python 
 
-＊ [Algorithms](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python
+* [Algorithms](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python
