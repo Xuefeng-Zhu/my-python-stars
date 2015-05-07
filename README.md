@@ -35,6 +35,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores in Python with support for implicit table creation, bulk loading, and transaction. Dataset also includes support for freezing data to CSV and JSON flat files.
 
+* [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 
 ## Web Framework
 * [restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python
@@ -48,6 +49,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [itsdangerous](https://github.com/mitsuhiko/itsdangerous) - Various helpers to pass trusted data to untrusted environments 
 
 * [tinys3](https://github.com/stars?language=python) - A simple python S3 upload library. Inspired by requests
+
+* [tortilla](https://github.com/redodo/tortilla) - Wrapping web APIs made easy
 
 
 ## Document
@@ -70,6 +73,12 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [EulerPy](https://github.com/iKevinY/EulerPy) - Python-based Project Euler command line tool.
 
+* [joe](https://github.com/karan/joe) - A .gitignore magician in your command line
+
+* [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
+
+* [colorama] (https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
+
 
 ## System
 
@@ -81,12 +90,18 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
 
+* [rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated Mac os x Python Statusbar apps 
+
 
 ## Tool
 
 * [huxley](https://github.com/facebook/huxley) - Huxley is a test-like system for catching visual regressions in Web applications. It watches you browse, takes screenshots, and tells you when they change.
 
 * [unp](https://github.com/mitsuhiko/unp) - Unpacks things 
+
+* [pyperform](https://github.com/lobocv/pyperform) - An easy and convienent way to performance test python code
+
+* [smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 
 
 ## Adminitration
@@ -95,6 +110,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems 
 
 * [sentry](https://github.com/getsentry/sentry) - Sentry is a realtime, platform-agnostic error logging and aggregation platform 
+
+* [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 
 
 ## Email
@@ -121,6 +138,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [rq](https://github.com/nvie/rq) - Simple job queues for Python  
 
+* [huey](https://github.com/coleifer/huey) - a little multi-threaded task queue for python
 
 ## Information
 * [tweep](https://github.com/tweepy/tweepy) - Twitter for Python 
@@ -148,6 +166,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion library for python
 
+* [vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
+
 
 ## Book
 
@@ -155,8 +175,12 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 
+*[discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask
+
 * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 
 * [py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python 
 
 * [Algorithms](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python
+
+* [Data-Science-45min-Intros](https://github.com/DrSkippy/Data-Science-45min-Intros) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
