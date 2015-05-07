@@ -58,6 +58,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [tortilla](https://github.com/redodo/tortilla) - Wrapping web APIs made easy
 
+* [pypyjs](https://github.com/rfk/pypyjs) - PyPy compiled to JavaScript
+
 
 ## Document
 * [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF 
