@@ -23,7 +23,10 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 ## Database
 * [butterdb](https://github.com/Widdershin/butterdb) - butterdb is a Python ORM for Google Drive Spreadsheets. Still in development, but usable.
+
 * [smartcsv](https://github.com/santiagobasulto/smartcsv) - CSVs are awesome, yet they're pretty dumb. Let's get them smarter!
+
+* [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
 
 * [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API
 
@@ -36,6 +39,9 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores in Python with support for implicit table creation, bulk loading, and transaction. Dataset also includes support for freezing data to CSV and JSON flat files.
 
 * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
+
+* [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a tiny, document oriented database optimized for your happiness :) 
+
 
 ## Web Framework
 * [restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python
@@ -54,13 +60,18 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 
 ## Document
-
 * [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF 
 
 * [pdfminer](https://github.com/euske/pdfminer) - Python PDF Parser
 
 
 ## Command Line
+* [howdoi](https://github.com/gleitz/howdoi) - howdoi - instant coding answers via the command line
+
+* [eg](https://github.com/srsudar/eg) - Useful examples at the command line
+
+* [autojump](https://github.com/joelthelion/autojump) - A cd command that learns - easily navigate directories from the command line
+
 * [pythonpy](https://github.com/Russell91/pythonpy) - python -c, with tab completion and shorthand
 
 * [hotspotd](https://github.com/prahladyeri/hotspotd) - Daemon to create a wifi hotspot on linux
@@ -79,9 +90,12 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [colorama] (https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 
+* [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command
+
+* [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites 
+
 
 ## System
-
 * [sh](https://github.com/amoffat/sh) - Python process launching
 
 * [envoy](https://github.com/kennethreitz/envoy) - Python Subprocesses for Humans 
@@ -94,7 +108,6 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 
 ## Tool
-
 * [huxley](https://github.com/facebook/huxley) - Huxley is a test-like system for catching visual regressions in Web applications. It watches you browse, takes screenshots, and tells you when they change.
 
 * [unp](https://github.com/mitsuhiko/unp) - Unpacks things 
@@ -102,6 +115,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [pyperform](https://github.com/lobocv/pyperform) - An easy and convienent way to performance test python code
 
 * [smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
+
+* [boltons](https://github.com/mahmoud/boltons) - Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton
 
 
 ## Adminitration
@@ -113,6 +128,10 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 
+* [ajenti](https://github.com/Eugeny/ajenti) - Ajenti - the web admin panel everyone wants
+
+* [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
+
 
 ## Email
 * [inbox](https://github.com/inboxapp/inbox) - The next-generation email platform
@@ -121,9 +140,10 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [inbox.py](https://github.com/kennethreitz/inbox.py) - Python SMTP Server for Humans 
 
+* [mailin](https://github.com/Flolagale/mailin) - Artisanal inbound emails for every web app
+
 
 ## Platform/Service
-
 * [edx-platform](https://github.com/edx/edx-platform) - Open edX, the edX platform that powers * 
 
 * [reddit](https://github.com/reddit/reddit) - the code that powers reddit.com 
@@ -140,6 +160,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [huey](https://github.com/coleifer/huey) - a little multi-threaded task queue for python
 
+
 ## Information
 * [tweep](https://github.com/tweepy/tweepy) - Twitter for Python 
 
@@ -152,6 +173,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [robobrowser] (https://github.com/jmcarp/robobrowser) - Your friendly neighborhood web scraper 
 
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites
+
+* [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 
 * [PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles 
 
@@ -180,6 +203,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 
 * [py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python 
+
+* [PyTricks](https://github.com/brennerm/PyTricks) - Collection of less popular features and tricks for the Python programming language
 
 * [Algorithms](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python
 
