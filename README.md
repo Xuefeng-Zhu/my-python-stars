@@ -200,7 +200,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 
-*[discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask
+* [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask
 
 * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 
