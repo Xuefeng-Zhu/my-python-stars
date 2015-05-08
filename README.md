@@ -158,6 +158,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask
 
+* [cloudtunes](https://github.com/jakubroztocil/cloudtunes) - Web-based music player for the cloud
+
 
 ## Distribute System
 * [plan](https://github.com/fengsp/plan) - Cron jobs in Python 
