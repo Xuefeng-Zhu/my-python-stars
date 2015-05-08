@@ -122,6 +122,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [boltons](https://github.com/mahmoud/boltons) - Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton
 
+* [didyoumean](https://github.com/dutc/didyoumean) - "Did You Mean?" Functionality on AttributeLookup
+
 
 ## Adminitration
 * [fig](https://github.com/docker/fig) - Fast, isolated development environments using Docker  
