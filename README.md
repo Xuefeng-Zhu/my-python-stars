@@ -60,6 +60,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [pypyjs](https://github.com/rfk/pypyjs) - PyPy compiled to JavaScript
 
+* [bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python
+
 
 ## Document
 * [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF 
