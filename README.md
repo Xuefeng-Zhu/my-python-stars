@@ -219,3 +219,5 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [Data-Science-45min-Intros](https://github.com/DrSkippy/Data-Science-45min-Intros) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
 
 * [PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
+
+* [fullstackpython.com](https://github.com/makaimc/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown
