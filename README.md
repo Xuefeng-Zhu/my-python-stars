@@ -216,6 +216,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [Algorithms](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python
 
+* [algorithms](https://github.com/nryoung/algorithms) - An educational module of algorithms in Python
+
 * [Data-Science-45min-Intros](https://github.com/DrSkippy/Data-Science-45min-Intros) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
 
 * [PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
