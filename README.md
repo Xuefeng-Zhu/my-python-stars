@@ -48,6 +48,8 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions
 
+* [falcon](https://github.com/falconry/falcon) - Falcon is a high-performance Python framework for building cloud APIs, smart proxies, and app backends.
+
 
 ## Web Dev
 * [rauth](https://github.com/litl/rauth) - A Python library for OAuth 1.0/a, 2.0, and Ofly 
@@ -98,6 +100,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites 
 
+* [pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project
 
 ## System
 * [sh](https://github.com/amoffat/sh) - Python process launching
