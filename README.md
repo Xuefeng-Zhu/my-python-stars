@@ -127,6 +127,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 * [didyoumean](https://github.com/dutc/didyoumean) - "Did You Mean?" Functionality on AttributeLookup
 
+* [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 
 ## Adminitration
 * [fig](https://github.com/docker/fig) - Fast, isolated development environments using Docker  
