@@ -229,4 +229,5 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
 
 * [fullstackpython.com](https://github.com/makaimc/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown
-*
+
+* [codeparkshare](https://github.com/Yixiaohan/codeparkshare) - Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
