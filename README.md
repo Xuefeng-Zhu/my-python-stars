@@ -96,6 +96,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box
 * [inbox.py](https://github.com/kennethreitz/inbox.py) - Python SMTP Server for Humans 
 * [mailin](https://github.com/Flolagale/mailin) - Artisanal inbound emails for every web app
+* [sync-engine](https://github.com/nylas/sync-engine) - Nylas — the next-generation email platform
 
 ## Platform/Service
 * [edx-platform](https://github.com/edx/edx-platform) - Open edX, the edX platform that powers * 
