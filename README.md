@@ -67,6 +67,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites 
 * [pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project
 * [legit](https://github.com/kennethreitz/legit) - Git for Humans, Inspired by GitHub for Mac™. 
+* [passpie](https://github.com/marcwebbie/passpie) - :closed_lock_with_key: Passpie manages encrypted login credentials from terminal 
 
 ## System
 * [sh](https://github.com/amoffat/sh) - Python process launching
