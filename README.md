@@ -127,6 +127,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 * [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion library for python
 * [vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
+* [rodeo](https://github.com/yhat/rodeo) - A data science IDE for Python
 
 ## Book
 * [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans 
