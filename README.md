@@ -66,6 +66,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites 
 * [pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project
+* [legit](https://github.com/kennethreitz/legit) - Git for Humans, Inspired by GitHub for Mac™. 
 
 ## System
 * [sh](https://github.com/amoffat/sh) - Python process launching
