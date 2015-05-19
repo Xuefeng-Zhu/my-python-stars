@@ -21,16 +21,16 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 ---
 
 ## Database
+* [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a tiny, document oriented database optimized for your happiness :) 
 * [butterdb](https://github.com/Widdershin/butterdb) - butterdb is a Python ORM for Google Drive Spreadsheets. Still in development, but usable.
+* [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API
 * [smartcsv](https://github.com/santiagobasulto/smartcsv) - CSVs are awesome, yet they're pretty dumb. Let's get them smarter!
 * [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
-* [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API
 * [stellar](https://github.com/fastmonkeys/stellar) - Fast database snapshot and restore tool for development
 * [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you
 * [fake2db](https://github.com/emirozer/fake2db) - create test databases that are populated with fake data
 * [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores in Python with support for implicit table creation, bulk loading, and transaction. Dataset also includes support for freezing data to CSV and JSON flat files.
 * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
-* [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a tiny, document oriented database optimized for your happiness :) 
 
 ## Web Framework
 * [restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python
@@ -53,18 +53,17 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [howdoi](https://github.com/gleitz/howdoi) - howdoi - instant coding answers via the command line
 * [eg](https://github.com/srsudar/eg) - Useful examples at the command line
 * [autojump](https://github.com/joelthelion/autojump) - A cd command that learns - easily navigate directories from the command line
+* [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command
 * [pythonpy](https://github.com/Russell91/pythonpy) - python -c, with tab completion and shorthand
-* [hotspotd](https://github.com/prahladyeri/hotspotd) - Daemon to create a wifi hotspot on linux
 * [powerline-shell](https://github.com/milkbikis/powerline-shell) - A beautiful and useful prompt for your shell
 * [httpie](https://github.com/jakubroztocil/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * [pep8](https://github.com/jcrocholl/pep8) - Simple Python style checker in one Python file
 * [EulerPy](https://github.com/iKevinY/EulerPy) - Python-based Project Euler command line tool.
-* [joe](https://github.com/karan/joe) - A .gitignore magician in your command line
 * [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [colorama] (https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
-* [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites 
 * [pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project
+* [joe](https://github.com/karan/joe) - A .gitignore magician in your command line
 * [legit](https://github.com/kennethreitz/legit) - Git for Humans, Inspired by GitHub for Mac™. 
 * [passpie](https://github.com/marcwebbie/passpie) - :closed_lock_with_key: Passpie manages encrypted login credentials from terminal 
 
@@ -75,8 +74,10 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
 * [rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated Mac os x Python Statusbar apps 
 
+
 ## Tool
 * [huxley](https://github.com/facebook/huxley) - Huxley is a test-like system for catching visual regressions in Web applications. It watches you browse, takes screenshots, and tells you when they change.
+* [hotspotd](https://github.com/prahladyeri/hotspotd) - Daemon to create a wifi hotspot on linux
 * [unp](https://github.com/mitsuhiko/unp) - Unpacks things 
 * [pyperform](https://github.com/lobocv/pyperform) - An easy and convienent way to performance test python code
 * [smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
@@ -84,6 +85,7 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [didyoumean](https://github.com/dutc/didyoumean) - "Did You Mean?" Functionality on AttributeLookup
 * [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 * [toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python. 
+
 
 ## Adminitration
 * [fig](https://github.com/docker/fig) - Fast, isolated development environments using Docker  
@@ -132,15 +134,15 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 ## Book
 * [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans 
-* [explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
-* [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask
-* [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+* [codeparkshare](https://github.com/Yixiaohan/codeparkshare) - Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
+* [PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
 * [py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python 
 * [PyTricks](https://github.com/brennerm/PyTricks) - Collection of less popular features and tricks for the Python programming language
+* [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 * [Algorithms](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python
 * [algorithms](https://github.com/nryoung/algorithms) - An educational module of algorithms in Python
 * [project-euler](https://github.com/riobard/project-euler) - solutions to Project Euler in Python
 * [Data-Science-45min-Intros](https://github.com/DrSkippy/Data-Science-45min-Intros) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
-* [PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
 * [fullstackpython.com](https://github.com/makaimc/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown
-* [codeparkshare](https://github.com/Yixiaohan/codeparkshare) - Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
+* [explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
+* [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask
