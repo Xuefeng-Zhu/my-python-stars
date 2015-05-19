@@ -1,7 +1,6 @@
 # my-python-star
-==============
 
-my stared python libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+My stared python libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [My Python Star](#my-python-star)
     - [Database](#database)
