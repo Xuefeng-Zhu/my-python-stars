@@ -31,11 +31,13 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [fake2db](https://github.com/emirozer/fake2db) - create test databases that are populated with fake data
 * [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores in Python with support for implicit table creation, bulk loading, and transaction. Dataset also includes support for freezing data to CSV and JSON flat files.
 * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
+* [redash](https://github.com/EverythingMe/redash) - Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards.
 
 ## Web Framework
 * [restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python
 * [eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions
 * [falcon](https://github.com/falconry/falcon) - Falcon is a high-performance Python framework for building cloud APIs, smart proxies, and app backends.
+* [py-frameworks-bench](https://github.com/klen/py-frameworks-bench) - Another benchmark for some python frameworks
 
 ## Web Dev
 * [rauth](https://github.com/litl/rauth) - A Python library for OAuth 1.0/a, 2.0, and Ofly 
@@ -74,7 +76,6 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
 * [rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated Mac os x Python Statusbar apps 
 
-
 ## Tool
 * [huxley](https://github.com/facebook/huxley) - Huxley is a test-like system for catching visual regressions in Web applications. It watches you browse, takes screenshots, and tells you when they change.
 * [hotspotd](https://github.com/prahladyeri/hotspotd) - Daemon to create a wifi hotspot on linux
@@ -85,7 +86,8 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [didyoumean](https://github.com/dutc/didyoumean) - "Did You Mean?" Functionality on AttributeLookup
 * [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 * [toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python. 
-
+* [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python 
+* [plyer](https://github.com/kivy/plyer) - Plyer is a platform-independent Python wrapper for platform-dependent APIs 
 
 ## Adminitration
 * [fig](https://github.com/docker/fig) - Fast, isolated development environments using Docker  
@@ -123,6 +125,7 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 * [PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles 
+* [High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python
 
 ## Miscellaneous
 * [powerline](https://github.com/Lokaltog/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile
@@ -131,6 +134,8 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion library for python
 * [vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
 * [rodeo](https://github.com/yhat/rodeo) - A data science IDE for Python
+* [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) -Interactive, test-driven coding challenges (algorithms and data structures).
+
 
 ## Book
 * [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans 
@@ -146,3 +151,6 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [fullstackpython.com](https://github.com/makaimc/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown
 * [explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 * [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask
+* [microservices-infrastructure](https://github.com/CiscoCloud/microservices-infrastructure) - Microservices infrastructure is a modern platform for rapidly deploying globally distributed services
+* [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and "worst practices", many of which can be checked automatically on QuantifiedCode 
+
