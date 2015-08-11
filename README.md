@@ -88,6 +88,7 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python. 
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python 
 * [plyer](https://github.com/kivy/plyer) - Plyer is a platform-independent Python wrapper for platform-dependent APIs 
+* [Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code in Python
 
 ## Adminitration
 * [fig](https://github.com/docker/fig) - Fast, isolated development environments using Docker  
