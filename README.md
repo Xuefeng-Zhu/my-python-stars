@@ -75,6 +75,7 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 * [Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
 * [rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated Mac os x Python Statusbar apps 
+* [gitfs](https://github.com/PressLabs/gitfs) - Version controlled file system
 
 ## Tool
 * [huxley](https://github.com/facebook/huxley) - Huxley is a test-like system for catching visual regressions in Web applications. It watches you browse, takes screenshots, and tells you when they change.
@@ -89,6 +90,7 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python 
 * [plyer](https://github.com/kivy/plyer) - Plyer is a platform-independent Python wrapper for platform-dependent APIs 
 * [Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code in Python
+* [profiling](https://github.com/what-studio/profiling) - An interactive Python profiler.
 
 ## Adminitration
 * [fig](https://github.com/docker/fig) - Fast, isolated development environments using Docker  
@@ -154,4 +156,5 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask
 * [microservices-infrastructure](https://github.com/CiscoCloud/microservices-infrastructure) - Microservices infrastructure is a modern platform for rapidly deploying globally distributed services
 * [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and "worst practices", many of which can be checked automatically on QuantifiedCode 
+* [intermediatePython](https://github.com/IntermediatePython/intermediatePython)
 
