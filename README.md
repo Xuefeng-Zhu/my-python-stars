@@ -46,6 +46,7 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [tortilla](https://github.com/redodo/tortilla) - Wrapping web APIs made easy
 * [pypyjs](https://github.com/rfk/pypyjs) - PyPy compiled to JavaScript
 * [bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python
+* [microservices-infrastructure](https://github.com/CiscoCloud/microservices-infrastructure) - Microservices infrastructure is a modern platform for rapidly deploying globally distributed services
 
 ## Document
 * [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF 
@@ -154,7 +155,6 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [fullstackpython.com](https://github.com/makaimc/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown
 * [explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 * [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask
-* [microservices-infrastructure](https://github.com/CiscoCloud/microservices-infrastructure) - Microservices infrastructure is a modern platform for rapidly deploying globally distributed services
 * [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and "worst practices", many of which can be checked automatically on QuantifiedCode 
 * [intermediatePython](https://github.com/IntermediatePython/intermediatePython)
 
