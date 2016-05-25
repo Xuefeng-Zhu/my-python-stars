@@ -143,6 +143,7 @@ My stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 ## Book
 * [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans 
+* [python_reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
 * [codeparkshare](https://github.com/Yixiaohan/codeparkshare) - Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
 * [PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
 * [py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python 
